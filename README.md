@@ -1,6 +1,10 @@
 # Chat-Bot 
 
 This is a chatbot application using the Gemini-1.5-Flash model, built with Flask.
+## Screenshot
+
+![Chat-Bot Screenshot](https://github.com/amine10a/ChatBot/blob/main/Screenshot%202024-07-11%20204443.png)
+
 
 ## Installation
 
